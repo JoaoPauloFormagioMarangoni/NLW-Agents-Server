@@ -8,6 +8,13 @@
       "when": 1760052607723,
       "tag": "0000_tough_crystal",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1760402436479,
+      "tag": "0001_magenta_thing",
+      "breakpoints": true
     }
   ]
 }
